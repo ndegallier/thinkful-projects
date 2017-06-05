@@ -20,3 +20,5 @@ while i + 1 <= n:
 	
 	else:
 		print i
+		
+print "Congratulations you can count to one hundred and divide by three and five."
